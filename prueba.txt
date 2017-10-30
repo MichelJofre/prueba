@@ -1,3 +1,4 @@
 esta es la version release estable 2.0.4
 Esta es la version inestable 2.0.5
 Esta es la version inestable 2.0.6
+Esta es la version estable 2.0.7
